@@ -1,4 +1,4 @@
-var url = "https://oc.tc/assets/logo-349d326db411b9798de71c299e348e0c.png";
+var url = "http://oc.tc/assets/logo-349d326db411b9798de71c299e348e0c.png";
  
 function init() {
  
