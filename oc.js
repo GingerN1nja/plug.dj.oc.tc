@@ -1,4 +1,4 @@
-var url = "http://oc.tc/assets/logo-349d326db411b9798de71c299e348e0c.png";
+var url = "https://raw2.github.com/GingerN1nja/plug.dj.oc.tc/master/oc.png";
  
 function init() {
  
